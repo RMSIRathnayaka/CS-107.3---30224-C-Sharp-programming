@@ -1,0 +1,7 @@
+E:\C# lab\labsheet 1\question 4\question 4\bin\Debug\question 4.exe.config
+E:\C# lab\labsheet 1\question 4\question 4\bin\Debug\question 4.exe
+E:\C# lab\labsheet 1\question 4\question 4\bin\Debug\question 4.pdb
+E:\C# lab\labsheet 1\question 4\question 4\obj\Debug\question 4.csproj.AssemblyReference.cache
+E:\C# lab\labsheet 1\question 4\question 4\obj\Debug\question 4.csproj.CoreCompileInputs.cache
+E:\C# lab\labsheet 1\question 4\question 4\obj\Debug\question 4.exe
+E:\C# lab\labsheet 1\question 4\question 4\obj\Debug\question 4.pdb
